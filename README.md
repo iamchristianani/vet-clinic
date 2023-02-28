@@ -31,7 +31,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo ](#-live-demo-)
+  - [🚀 Database Diagram ](#-database-diagram-)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -71,9 +71,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Live Demo -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Database Diagram <a name="database-diagram"></a>
 
-[Live link](https://drawsql.app/teams/vet-clinic-team/diagrams/vet-clinic)
+[Diagram Link](https://drawsql.app/teams/vet-clinic-team/diagrams/vet-clinic)
+
+![Screenshot 2023-02-28 115522](https://user-images.githubusercontent.com/116313214/221836884-41369263-e3a7-4598-8a20-0cf599eeee92.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
