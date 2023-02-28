@@ -63,3 +63,15 @@ vet_id INT REFERENCES vets(id),
 visit_date DATE,
 PRIMARY KEY(animal_id, vet_id, visit_date)
 );
+
+-- Add an email column to your owners table
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+-- Remove the primary keys from the visits table
+ALTER TABLE visits DROP CONSTRAINT visits_pkey;
+
+CREATE INDEX animals_visits_idx ON visits(animal_id);
+
+CREATE INDEX vets_visits_idx ON visits(vet_id);
+
+CREATE INDEX owners_visits_idx ON owners(email); 
