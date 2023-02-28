@@ -75,7 +75,7 @@ After you're finished please remove all the comments and instructions!
 
 [Diagram Link](https://drawsql.app/teams/vet-clinic-team/diagrams/vet-clinic)
 
-![Screenshot 2023-02-28 115522](https://user-images.githubusercontent.com/116313214/221836884-41369263-e3a7-4598-8a20-0cf599eeee92.png)
+![Screenshot 2023-02-28 125922](https://user-images.githubusercontent.com/116313214/221848888-c3f7ee66-7cb1-459a-9530-32481ded5552.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
